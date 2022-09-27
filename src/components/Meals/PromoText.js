@@ -3,7 +3,7 @@ import styles from "./PromoText.module.css";
 const PromoText = () => {
   return (
     <section className={styles["promo-text"]}>
-      <h2>JAPANESE FOOD IN San Francisco</h2>
+      <h2>JAPANESE FOOD in San Francisco</h2>
       <p>
         At Sacura Sushi, we bring you the contemporary fine dining ambiance,
         relaxing, quiet and wonderful experience.We pride ourselves on serving
